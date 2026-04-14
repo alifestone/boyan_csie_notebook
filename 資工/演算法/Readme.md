@@ -4,7 +4,7 @@
 
 # Content
 ## Problem set
-上課老師所勾織課本練習題，亦為期中期末考題庫 
+上課老師所勾之課本練習題，亦為期中期末考題庫 
 ### 題目
 <div style="display: flex; align-items: flex-start;">
   <img width="210" height="1345" alt="image" src="https://github.com/user-attachments/assets/07622ee9-a5a2-472a-bd73-d6c4a3ce8b7b" align="top" /> 
