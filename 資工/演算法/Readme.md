@@ -12,4 +12,7 @@
 </div>
 
 ### 參考解答
-https://hackmd.io/@PZKX4V1OQvmqLNornzGDJQ/SkExFd7hbx
+以下只為"參考"答案。有誤之處請不吝指教。
+- https://hackmd.io/@PZKX4V1OQvmqLNornzGDJQ/SkExFd7hbx
+- https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
+- https://icefox-saber.github.io/CLRS/
